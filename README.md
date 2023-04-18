@@ -1,3 +1,4 @@
+![logo](https://github.com/RahulKubavat/RahulKubavat/blob/main/Rahul%20Kubavat%20-%20Bnner.gif)
 <h1 align="center">Hi 👋, I'm Rahul Kubavat</h1>
 <h3 align="center">Designing Intuitive and Interactive Web Experiences For Modern Businesses</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
