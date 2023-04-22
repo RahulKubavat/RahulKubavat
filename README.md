@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkubavat&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkubavat" /> </p>
 
-- 🌱 I’m currently learning **Frameworks, java Script, React**
+- 🌱 I’m currently learning **Javascript, Framework**
 
 - 📫 How to reach me **rahulkubavat1999@gmail.com**
 
